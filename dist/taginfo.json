@@ -93,6 +93,7 @@
     {"key": "amenity", "value": "vending_machine"},
     {"key": "amenity", "value": "veterinary"},
     {"key": "amenity", "value": "weighbridge"},
+    {"key": "animal_boarding", "value": "dog"},
     {"key": "animal_boarding", "value": "dog;cat"},
     {"key": "beauty", "value": "cosmetics"},
     {"key": "beauty", "value": "eyebrow;eyelash;waxing"},
